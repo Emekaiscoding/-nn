@@ -18,6 +18,7 @@ def subtract_numbers(a, b):
     """
     return a - b
 
+#Multiplication function
 def multiply_numbers(a, b):
     """
     This function takes two numbers as input and returns their product.
@@ -28,6 +29,7 @@ def multiply_numbers(a, b):
     """
     return a * b
 
+#Division function
 def divide_numbers(a, b):
     """
     This function takes two numbers as input and returns their quotient.
